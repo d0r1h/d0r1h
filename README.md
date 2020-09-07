@@ -12,6 +12,7 @@
 <a href="https://api.whatsapp.com/send?phone=919454795824&text=&source=&data=&app_absent=">
   <img align="left" alt="Pawan Trivedi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/whatsapp.svg" />
 </a>
+![](https://visitor-badge.glitch.me/badge?page_id=d0r1h.d0r1h)
 
 
 
