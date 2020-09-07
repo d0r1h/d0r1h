@@ -26,3 +26,9 @@
 [How to stay safe/secure in Digital life V.1](https://medium.com/random-click/my-journey-to-stay-safe-anonymous-in-the-digital-age-v-1-6732c9ff5b13)
 
 <!-- BLOG-POST-LIST:END -->
+
+
+
+<p align="center">
+<img align="center" alt="GIF" src="https://giphy.com/gifs/G3H3U0fsmRfUY/html5 />
+</p>
