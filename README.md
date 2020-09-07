@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on **Machine Learning** Project (To know detail can mail me)
 - 💬 Ask me about ***Digital Security, Privacy*** and much more... 
-- 📫 How to reach me: [Email](emailto:59r@protonmail.com)
+- 📫 How to reach me: [Email](mailto:59r@protonmail.com)
 - ⚡ Fun fact: ...
 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+[![Twitter: Pawan Trivedi](https://img.shields.io/twitter/follow/d0r1h?style=social)](https://twitter.com/d0r1h)
