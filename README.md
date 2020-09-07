@@ -18,7 +18,7 @@
 - If you're an **Machine Learning enthusiast OR Practitioner** chcek out my Open-Source **FREE** [ML University](https://d0r1h.github.io/ML-University/). 
 
 
-📕 **Latest Blog Posts**
+📕 **Latest Blog Posts** [Medium](https://medium.com/@d0r1h)
 <!-- BLOG-POST-LIST:START -->
 
 [How to stay safe/secure in Digital life V.3](https://medium.com/random-click/how-to-stay-safe-secure-in-digital-life-v-3-7ebfe7a1017d)</br>
