@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on **Voice Control Personal AI assistant**
+- 🌱 I’m currently learning **Machine Learning** 
 - 👯 I’m looking to collaborate on **Machine Learning** Project (To know more about Project, you can mail me :) )
 - 💬 Ask me about ***Digital Security, Privacy*** and much more... 
 - 📫 How to reach me: [Email](mailto:59r@protonmail.com)
