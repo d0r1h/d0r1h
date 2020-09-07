@@ -34,7 +34,7 @@
 <br/>
 I'm Pawan Trivedi, goes by *d0r1h* a Data Science Grad. Student at [PES](https://www.pes.edu/), University INDIA. 
   
-   <img align="right" alt="GIF" src="https://media.giphy.com/media/G3H3U0fsmRfUY/giphy.gif" width="500" height="320" />
+   <img align="right" alt="GIF" src="https://media.giphy.com/media/G3H3U0fsmRfUY/giphy.gif" width="300" height="220" />
   
 - 🔭 I’m currently working on **Voice Control Personal AI assistant**
 - 🌱 I’m currently learning/Studying **Machine Learning** as a Grad. Student, 
