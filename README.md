@@ -20,10 +20,9 @@
 
 📕 **Latest Blog Posts** [Medium](https://medium.com/@d0r1h)
 <!-- BLOG-POST-LIST:START -->
-
-[How to stay safe/secure in Digital life V.3](https://medium.com/random-click/how-to-stay-safe-secure-in-digital-life-v-3-7ebfe7a1017d), 
+[How to stay safe/secure in Digital life V.1](https://medium.com/random-click/my-journey-to-stay-safe-anonymous-in-the-digital-age-v-1-6732c9ff5b13),
 [V.2](https://medium.com/random-click/how-to-stay-safe-secure-in-digital-life-v-2-f9e18f25f24c), 
-[V.1](https://medium.com/random-click/my-journey-to-stay-safe-anonymous-in-the-digital-age-v-1-6732c9ff5b13)
+[V.3](https://medium.com/random-click/how-to-stay-safe-secure-in-digital-life-v-3-7ebfe7a1017d
 
 <!-- BLOG-POST-LIST:END -->
 
