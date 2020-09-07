@@ -2,7 +2,7 @@
 I'm Pawan Trivedi, goes by *d0r1h* a Data Science Grad. Student at [PES](https://twitter.com/pesuniversity) University INDIA. 
 
 - 🔭 I’m currently working on **Voice Control Personal AI assistant**
-- 🌱 I’m currently learning/Studying **Machine Learning** as a Grad. Student, <a href="https://www.docker.com/" title="Docker"><img src="/assets/docker.png"/></a>
+- 🌱 I’m currently learning/Studying **Machine Learning** as a Grad. Student, <a href="https://www.docker.com/" title="Docker"><img src="d0r1h/d0r1h/raw/main/assets/docker.png"/></a>
 - 👯 I’m looking to collaborate on **Machine Learning** Project (To know more about Project, you can mail me :) )
 - 💬 Ask me about ***Digital Security, Privacy*** and much more... 
 - 📫 How to reach me: [Email](mailto:59r@protonmail.com)
