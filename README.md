@@ -16,7 +16,10 @@
 <a href="https://www.hackerrank.com/d0r1h">
   <img align="left" alt="Pawan Trivedi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/hackerrank.svg" />
 </a>
-
+<!--Medium-->
+<a href="https://medium.com/@d0r1hh">
+  <img align="left" alt="Pawan Trivedi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/medium.svg" />
+</a>
 
 <br/>
 <br/>
