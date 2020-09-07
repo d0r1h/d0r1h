@@ -1,4 +1,12 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<!-- Twitter -->
+
+<a href="https://twitter.com/d0r1h">
+  <img align="left" alt="Pawan Trivedi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+
 I'm Pawan Trivedi, goes by *d0r1h* a Data Science Grad. Student at [PES](https://twitter.com/pesuniversity) University INDIA. 
 
 - 🔭 I’m currently working on **Voice Control Personal AI assistant**
