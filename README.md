@@ -18,4 +18,8 @@
 [![Twitter: Pawan Trivedi](https://img.shields.io/twitter/follow/d0r1h?style=social)](https://twitter.com/d0r1h)
 [![Linkedin: Pawan Trivedi](https://img.shields.io/badge/-d0r1h-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/d0r1h/)](https://www.linkedin.com/in/d0r1h/)
 [![GitHub Pawan Trivedi](https://img.shields.io/github/followers/d0r1h?label=follow&style=social)](https://github.com/d0r1h)
-[![Medium Pawan Trivedi](https://medium.com/@d0r1h)
+
+
+<div id="medium-widget"></div>
+    <script src="https://medium-widget.pixelpoint.io/widget.js"></script>
+    <script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"http://medium.com/@d0r1h","postsPerLine":0,"limit":10,"picture":"big","fields":["likes"],"ratio":"original"}})</script>
