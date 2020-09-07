@@ -30,5 +30,5 @@
 
 
 <p align="center">
-<img align="center" alt="GIF" src="https://giphy.com/gifs/G3H3U0fsmRfUY/html5 />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/G3H3U0fsmRfUY/giphy.gif />
 </p>
