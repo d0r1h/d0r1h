@@ -27,4 +27,4 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<img src="https://media.giphy.com/media/G3H3U0fsmRfUY/giphy.gif" width="50">
+<img src="https://media.giphy.com/media/G3H3U0fsmRfUY/giphy.gif" width="500">
