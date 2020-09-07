@@ -18,8 +18,6 @@
 - If you're an **Machine Learning enthusiast OR Practitioner** chcek out my Open-Source **FREE** [ML University](https://d0r1h.github.io/ML-University/). 
 
 
-![](assets/giphy.mp4)
-
 📕 **Latest Blog Posts** [Medium](https://medium.com/@d0r1h)
 <!-- BLOG-POST-LIST:START -->
 
