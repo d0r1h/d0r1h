@@ -13,7 +13,7 @@
   <img align="left" alt="Pawan Trivedi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/kaggle.svg" />
 </a>
 <!--Medium-->
-<a href="https://medium.com/@d0r1hh">
+<a href="https://medium.com/@d0r1h">
   <img align="left" alt="Pawan Trivedi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/medium.svg" />
 </a>
 <!--Quora
@@ -33,21 +33,19 @@
 <br/>
 <br/>
 I'm Pawan Trivedi, goes by *d0r1h* a Data Science Grad. Student at [PES](https://www.pes.edu/), University INDIA. 
-  
-   <img align="right" alt="GIF" src="https://media.giphy.com/media/G3H3U0fsmRfUY/giphy.gif" width="300" height="220" />
-  
+    
 - 🔭 I’m currently working on **Voice Control Personal AI assistant**
 - 🌱 I’m currently learning/Studying **Machine Learning** as a Grad. Student, 
 - 👯 I’m looking to collaborate on **Machine Learning** Project (To know more about Project, you can mail me :) )
 - 💬 Ask me about ***Digital Security, Privacy*** and much more... 
 - 📫 How to reach me: [Email](mailto:59r@protonmail.com)
-- ⚡ Fun fact: ...
-
+- ⚡ Quote : ?
 
 - If you're an **Machine Learning enthusiast OR Practitioner** chcek out my Open-Source **FREE** [ML University](https://d0r1h.github.io/ML-University/). 
 
 **Languages and Tools:** 
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 
 
@@ -58,5 +56,5 @@ I'm Pawan Trivedi, goes by *d0r1h* a Data Science Grad. Student at [PES](https:/
 <!-- BLOG-POST-LIST:END -->
 
 
-<img align="centre" alt="GIF" src="https://media.giphy.com/media/G3H3U0fsmRfUY/giphy.gif?raw=true" width="900" height="300" />                    
+<img align="centre" alt="GIF" src="https://media.giphy.com/media/G3H3U0fsmRfUY/giphy.gif?raw=true" width="900" height="200" />                    
 
