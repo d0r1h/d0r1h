@@ -26,8 +26,5 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-[! ](https://media.giphy.com/media/G3H3U0fsmRfUY/giphy.gif)
 
-<p align="center">
-<img align="center" alt="GIF" src="https://media.giphy.com/media/G3H3U0fsmRfUY/giphy.gif />
-</p>
+<img src="https://media.giphy.com/media/G3H3U0fsmRfUY/giphy.gif" width="50">
