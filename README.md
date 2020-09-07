@@ -27,5 +27,5 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<img src="https://media.giphy.com/media/G3H3U0fsmRfUY/giphy.gif" width="500" style="vertical-align:middle;margin:0px 50px">
-</br>**Let's Talk**
+<img src="https://media.giphy.com/media/G3H3U0fsmRfUY/giphy.gif" width="500" style="vertical-align:middle;margin:0px 50px"></br>
+**Let's Talk**
