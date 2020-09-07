@@ -11,3 +11,4 @@
 
 
 [![Twitter: Pawan Trivedi](https://img.shields.io/twitter/follow/d0r1h?style=social)](https://twitter.com/d0r1h)
+[![Linkedin: Pawan Trivedi](https://img.shields.io/badge/-d0r1h-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/d0r1h/)](https://www.linkedin.com/in/d0r1h/)
