@@ -13,8 +13,12 @@
   <img align="left" alt="Pawan Trivedi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/whatsapp.svg" />
 </a>
 <!--Hackerrank-->
+<a href="https://www.hackerrank.com/d0r1h">
+  <img align="left" alt="Pawan Trivedi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/hackerrank.svg" />
+</a>
+
 <!--realtryhackme-->
- (<script src="https://tryhackme.com/badge/136960"></script><br/>)
+ 
 
 <br/>
 I'm Pawan Trivedi, goes by *d0r1h* a Data Science Grad. Student at [PES](https://www.pes.edu/), University INDIA. 
