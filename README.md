@@ -14,8 +14,7 @@
 </a>
 <!--Hackerrank-->
 <!--realtryhackme-->
-<img src="https://tryhackme-badges.s3.amazonaws.com/thm32.png" alt="TryHackMe">
-<br/>
+ <script src="https://tryhackme.com/badge/136960"></script><br/>
 
 <br/>
 I'm Pawan Trivedi, goes by *d0r1h* a Data Science Grad. Student at [PES](https://www.pes.edu/), University INDIA. 
