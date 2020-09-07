@@ -20,6 +20,6 @@
 [![GitHub Pawan Trivedi](https://img.shields.io/github/followers/d0r1h?label=follow&style=social)](https://github.com/d0r1h)
 
 
-<div id="medium-widget"></div>
+[Medium](<div id="medium-widget"></div>
     <script src="https://medium-widget.pixelpoint.io/widget.js"></script>
-    <script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"http://medium.com/@d0r1h","postsPerLine":0,"limit":10,"picture":"big","fields":["likes"],"ratio":"original"}})</script>
+    <script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"http://medium.com/@d0r1h","postsPerLine":0,"limit":10,"picture":"big","fields":["likes"],"ratio":"original"}})</script>)
