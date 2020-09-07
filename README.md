@@ -58,5 +58,5 @@ I'm Pawan Trivedi, goes by *d0r1h* a Data Science Grad. Student at [PES](https:/
 <!-- BLOG-POST-LIST:END -->
 
 
-<img align="centre" alt="GIF" src="https://media.giphy.com/media/G3H3U0fsmRfUY/giphy.gif" width=850" height="150" />                    
+<img align="centre" alt="GIF" src="https://media.giphy.com/media/G3H3U0fsmRfUY/giphy.gif"/>                    
 
