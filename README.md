@@ -30,6 +30,10 @@ I'm Pawan Trivedi, goes by *d0r1h* a Data Science Grad. Student at [PES](https:/
 - If you're an **Machine Learning enthusiast OR Practitioner** chcek out my Open-Source **FREE** [ML University](https://d0r1h.github.io/ML-University/). 
 
 
+
+
+
+
 📕 **Latest Blog Posts** [Medium](https://medium.com/@d0r1h)
 <!-- BLOG-POST-LIST:START -->
 [How to stay safe/secure in Digital life V.1](https://medium.com/random-click/my-journey-to-stay-safe-anonymous-in-the-digital-age-v-1-6732c9ff5b13),
@@ -40,10 +44,4 @@ I'm Pawan Trivedi, goes by *d0r1h* a Data Science Grad. Student at [PES](https:/
 
 
 <img src="https://media.giphy.com/media/G3H3U0fsmRfUY/giphy.gif" width="500" style="vertical-align:middle;margin:0px 50px"></br>
-**Let's Talk**
-
-
- 🧰 <code><img height="30" src="https://raw.githubusercontent.com/d0r1h/d0r1h/master/assets/docker.png"></code>
-     <code><img height="30" src="https://raw.githubusercontent.com/d0r1h/d0r1h/master/assets/docker.png"></code>
-     <code><img height="30" src="https://raw.githubusercontent.com/d0r1h/d0r1h/master/assets/docker.png"></code>
-
+                    **Do not feel like working! Let's Talk**
