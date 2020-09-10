@@ -32,7 +32,7 @@
 
 <br/>
 <br/>
-I'm Pawan Trivedi, goes by *d0r1h* a Data Science Grad. Student at [PES](https://www.pes.edu/), University INDIA. 
+I'm Pawan Trivedi, goes by *d0r1h* a Data Science Grad. Student at [PES](https://www.pes.edu) University INDIA. 
     
 - 🔭 I’m currently working on **Voice Control Personal AI assistant**
 - 🌱 I’m currently learning/Studying **Machine Learning** as a Grad. Student, 
@@ -57,7 +57,7 @@ I'm Pawan Trivedi, goes by *d0r1h* a Data Science Grad. Student at [PES](https:/
 
 📕 **Latest Blog Posts** [Medium](https://medium.com/@d0r1h)
 <!-- BLOG-POST-LIST:START -->
-[How to stay safe/secure in Digital life V.3](https://medium.com/random-click/how-to-stay-safe-secure-in-digital-life-v-3-7ebfe7a1017d)
+[How to stay safe/secure in Digital life V.4](https://medium.com/@d0r1h/how-to-stay-secure-in-digital-life-v-4-2203dd030c4b)
 
 <!-- BLOG-POST-LIST:END -->
 
