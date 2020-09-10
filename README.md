@@ -31,7 +31,7 @@
 </a>
 
 <br/>
-<br/>
+
 I'm Pawan Trivedi, goes by *d0r1h* a Data Science Grad. Student at [PES](https://www.pes.edu) University INDIA. 
     
 - 🔭 I’m currently working on **Voice Control Personal AI assistant**
