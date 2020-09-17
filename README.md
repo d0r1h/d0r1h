@@ -58,7 +58,7 @@ I'm Pawan Trivedi, goes by *d0r1h* a Data Science Grad. Student at [PES](https:/
 
 📕 **Latest Blog Posts** [Medium](https://medium.com/@d0r1h)
 <!-- BLOG-POST-LIST:START -->
-[How to stay safe/secure in Digital life V.4](https://medium.com/@d0r1h/how-to-stay-secure-in-digital-life-v-4-2203dd030c4b)
+[How Big Tech are ruling the world with Big Data](https://medium.com/@d0r1h/how-big-tech-are-ruling-the-world-with-big-data-60d0620a6ae0)
 
 <!-- BLOG-POST-LIST:END -->
 
