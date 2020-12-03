@@ -49,12 +49,10 @@ I'm Pawan Trivedi, goes by *d0r1h* a Data Science Grad. Student at [PES](https:/
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/python.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/docker.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/linux.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/ansible.js"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/ansible.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/javascript.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/javascript.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/github.svg"></code>
-<code><img height="20" src="https://www.flaticon.com/premium-icon/icons/svg/2980/2980591.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/flask.svg"></code>
 
 
 
