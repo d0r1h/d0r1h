@@ -50,7 +50,7 @@ I'm Pawan Trivedi, goes by *d0r1h* a Data Science Grad. Student at [PES](https:/
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/docker.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/linux.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/ansible.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/javascript.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/git.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/javascript.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/github.svg"></code>
 
