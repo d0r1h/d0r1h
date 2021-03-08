@@ -42,7 +42,7 @@ I'm Pawan Trivedi, goes by *d0r1h* a Data Science Grad. Student at [PES](https:/
 - ⚡ Quote : _You won't compromise with anyone, even with yourself when it's about your life,<br />
                 then why compromise when it's about your **digital life**?_
 
-- If you're an **Machine Learning enthusiast OR Practitioner** chcek out my Open-Source/**FREE** [ML University](https://d0r1h.github.io/ML-University/). 
+- If you're an **Machine Learning enthusiast OR Practitioner** chcek out my Open-Source/**FREE** [ML University](https://59r.gitbook.io/ml-university/). 
 
 **Languages and Tools:** 
 
