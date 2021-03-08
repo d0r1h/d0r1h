@@ -34,7 +34,7 @@
 
 I'm Pawan Trivedi, goes by *d0r1h* a Data Science Grad. Student at [PES](https://www.pes.edu) University INDIA. 
     
-- 🔭 I’m currently working on **Voice Control Personal AI assistant**
+- 🔭 I’m currently working on **Developing Pyhton Library to automate EDA**
 - 🌱 I’m currently learning/Studying **Machine Learning** as a Grad. Student, 
 - 👯 I’m looking to collaborate on **Machine Learning** Project (To know more about Project, you can mail me :) )
 - 💬 Ask me about ***Digital Security, Privacy*** and much more... 
