@@ -28,17 +28,12 @@
 
 <br/><br/>
 
-I'm Pawan Trivedi, goes by *d0r1h* a Data Science Grad. Student at [PES](https://www.pes.edu) University INDIA. 
+I'm Pawan Trivedi, goes by *d0r1h* final year masters student at [PES University](https://www.pes.edu) INDIA.
     
-- 🔭 I’m currently working on **Developing Pyhton Library to automate EDA**
-- 🌱 I’m currently learning/Studying **Machine Learning** as a Grad. Student, 
-- 👯 I’m looking to collaborate on **Machine Learning** Project (To know more about Project, you can mail me :) )
-- 💬 Ask me about ***Digital Security, Privacy*** and much more... 
-- 📫 How to reach me: [Email](mailto:59r@protonmail.com)
-- ⚡ Quote : _You won't compromise with anyone, even with yourself when it's about your life,<br />
-                then why compromise when it's about your **digital life**?_
+- 🔭 I’m currently working on **NLP/NLU** related projects
+- 🌱 I’m currently learning/Studying **Data Science & Machine Learning** as a Grad. Student 
 
-- If you're an **Machine Learning enthusiast OR Practitioner** chcek out my Open-Source/**FREE** [ML University](https://59r.gitbook.io/ml-university/). 
+- If you're an **Machine Learning enthusiast OR Practitioner** chcek out my Open-Source/**FREE** [ML University](https://github.com/d0r1h/ML-University). 
 
 **Languages and Tools:** 
 
