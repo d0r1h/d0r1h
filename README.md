@@ -28,10 +28,8 @@
 
 <br/><br/>
 
-I'm Pawan Trivedi, goes by *d0r1h* final year masters student at [PES University](https://www.pes.edu) INDIA.
-    
-- 🔭 I’m currently working on **NLP/NLU** related projects
-- 🌱 I’m currently learning/Studying **Data Science & Machine Learning** as a Grad. Student 
+I'm Pawan Trivedi, goes by *d0r1h* currently working as Data Analyst in Retail Industry.    
+
 
 - If you're an **Machine Learning enthusiast OR Practitioner** chcek out my Open-Source/**FREE** [ML University](https://github.com/d0r1h/ML-University). 
 
