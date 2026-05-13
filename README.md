@@ -1,5 +1,3 @@
-### Hi there! 
-
 <!-- LinkedIn-->
 <a href="https://www.linkedin.com/in/d0r1h/">
   <img align="left" alt="Pawan Trivedi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
