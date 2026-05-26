@@ -22,7 +22,7 @@
 
 <br/><br/>
 
-If you're an **Machine Learning enthusiast OR Practitioner** chcek out my Open-Source/**FREE** [ML University](https://github.com/d0r1h/ML-University). 
+Hi, I'm **Pawan** working on classical Machine Learning and Generative AI
 
 **Languages and Tools:** 
 
@@ -35,9 +35,23 @@ If you're an **Machine Learning enthusiast OR Practitioner** chcek out my Open-S
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/github.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/amazonaws.svg"></code>
 
+## Notes
+
+- 📚 **[ML University](https://github.com/d0r1h/ML-University)** - Free Open-Source Learning Resources  
+- 📚 **[ML University](https://59r.gitbook.io/ml-university)** - My Notes & Learnings
 
 
-📕 **Latest Blog Posts** [Medium](https://medium.com/@d0r1h)
+## Current Porjects 
+
+- 
+
+
+## Past (Archive) Projects 
+
+
+
+
+📕 **Blog Posts** [WebPage](https://d0r1h.github.io/blog.html)
 <!-- BLOG-POST-LIST:START -->
 [A Practical guide on Deploying Machine Learning Project 101](https://medium.com/geekculture/a-practical-guide-on-deploying-machine-learning-project-101-a494314a6127)
 
