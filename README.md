@@ -43,12 +43,25 @@ Hi, I'm **Pawan** working on classical Machine Learning and Generative AI
 
 ## Current Porjects 
 
+- 📇 **[crawlforge](https://github.com/d0r1h/crawlforge)** - Mini Distributed Web Crawler + Search Engine
+- 🧠 **[HuberGPT](https://github.com/d0r1h/HuberGPT)** -  Dr. Huberman GPT
+- 🗣️ **[HaloTTS](https://github.com/d0r1h/HaloTTS)** - Real Time Voice synthesis
+- ➕ **[MathRumble](https://github.com/d0r1h/MathRumble)** - Real-time multiplayer math game
+- 🍲 **[FoodClassifier](https://github.com/d0r1h/FoodClassifier)** - End to End Food Image Classification
+- 🧩 **[infinite-path-puzzle](https://github.com/d0r1h/infinite-path-puzzle)** - Fun Puzzle Game
+- 🖺 **[imagetotext](https://github.com/d0r1h/imagetotext)** - Tool to extract Text from Image
+- 📱 **[MobPy](https://github.com/d0r1h/MobPy)** - AI on Phone (EdgeML)
 - 
+
+
+
 
 
 ## Past (Archive) Projects 
 
-
+- 📃 **[SAR](https://github.com/d0r1h/SAR)** -  Hindi News Text Summarization
+- 📃 **[Aut0Infra](https://github.com/d0r1h/Aut0Infra)** -  CLI tool for Infra Automation
+- 
 
 
 📕 **Blog Posts** [WebPage](https://d0r1h.github.io/blog.html)
