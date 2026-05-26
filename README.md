@@ -46,13 +46,12 @@ Hi, I'm **Pawan** working on classical Machine Learning and Generative AI
 - 📇 **[crawlforge](https://github.com/d0r1h/crawlforge)** - Mini Distributed Web Crawler + Search Engine
 - 🧠 **[HuberGPT](https://github.com/d0r1h/HuberGPT)** -  Dr. Huberman GPT
 - 🗣️ **[HaloTTS](https://github.com/d0r1h/HaloTTS)** - Real Time Voice synthesis
+- 😀 **[Faceauth](https://github.com/d0r1h/Faceauth)** - Intelligent Face Authentication 
 - ➕ **[MathRumble](https://github.com/d0r1h/MathRumble)** - Real-time multiplayer math game
 - 🍲 **[FoodClassifier](https://github.com/d0r1h/FoodClassifier)** - End to End Food Image Classification
 - 🧩 **[infinite-path-puzzle](https://github.com/d0r1h/infinite-path-puzzle)** - Fun Puzzle Game
 - 🖺 **[imagetotext](https://github.com/d0r1h/imagetotext)** - Tool to extract Text from Image
 - 📱 **[MobPy](https://github.com/d0r1h/MobPy)** - AI on Phone (EdgeML)
-- 
-
 
 
 
@@ -60,8 +59,21 @@ Hi, I'm **Pawan** working on classical Machine Learning and Generative AI
 ## Past (Archive) Projects 
 
 - 📃 **[SAR](https://github.com/d0r1h/SAR)** -  Hindi News Text Summarization
+- 📃 **[Churn-Analysis](https://github.com/d0r1h/Churn-Analysis)** -  Customer Churn Analysis
+- 📃 **[CO2-Emission-by-Cars](https://github.com/d0r1h/CO2-Emission-by-Cars)** -  Model to predict CO2 Emissions
 - 📃 **[Aut0Infra](https://github.com/d0r1h/Aut0Infra)** -  CLI tool for Infra Automation
-- 
+
+
+
+## DataSets 
+Curated textual datasets for LLM fine-tuning
+
+- ⚖️ **[ILC](https://huggingface.co/datasets/d0r1h/ILC)** -  Indian Legal Dataset for Document Summarization
+- 🗞️ **[HindiNewSummaries](https://huggingface.co/datasets/d0r1h/HindiNewSummaries)** -  Hindi News Text Summarization
+- ✍️ **[Shlokam](https://huggingface.co/datasets/d0r1h/Shlokam)** -  Sanskrit and English MT dataset
+
+
+
 
 
 📕 **Blog Posts** [WebPage](https://d0r1h.github.io/blog.html)
