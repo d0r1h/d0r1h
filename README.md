@@ -68,9 +68,9 @@ Hi, I'm **Pawan** working on classical Machine Learning and Generative AI
 ## DataSets 
 Curated textual datasets for LLM fine-tuning
 
-- ⚖️ **[ILC](https://huggingface.co/datasets/d0r1h/ILC)** -  Indian Legal Dataset for Document Summarization
-- 🗞️ **[HindiNewSummaries](https://huggingface.co/datasets/d0r1h/HindiNewSummaries)** -  Hindi News Text Summarization
-- ✍️ **[Shlokam](https://huggingface.co/datasets/d0r1h/Shlokam)** -  Sanskrit and English MT dataset
+- ⚖️ **[ILC](https://huggingface.co/datasets/d0r1h/ILC)** (3.08k)-  Indian Legal Dataset for Document Summarization
+- 🗞️ **[HindiNewSummaries](https://huggingface.co/datasets/d0r1h/HindiNewSummaries)** (130k)-  Hindi News Text Summarization
+- ✍️ **[Shlokam](https://huggingface.co/datasets/d0r1h/Shlokam)** (2k) - Sanskrit and English MT dataset
 
 
 
