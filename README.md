@@ -43,6 +43,7 @@ Hi, I'm **Pawan** working on classical Machine Learning and Generative AI
 
 ## Current Porjects 
 
+- 🛍️ **[shoprank](https://github.com/d0r1h/shoprank)** - Search and Rank application
 - 🪚 **[Thresher](https://github.com/d0r1h/Thresher)** - A local RAG system
 - 📇 **[crawlforge](https://github.com/d0r1h/crawlforge)** - Mini Distributed Web Crawler + Search Engine
 - 🧠 **[HuberGPT](https://github.com/d0r1h/HuberGPT)** -  Dr. Huberman GPT
