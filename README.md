@@ -22,7 +22,7 @@
 
 <br/><br/>
 
-Hi, I'm **Pawan** working on classical Machine Learning and Generative AI
+Hi, I'm **Pawan** working on Machine Learning and Generative AI
 
 **Languages and Tools:** 
 
