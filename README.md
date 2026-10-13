@@ -41,8 +41,9 @@ Hi, I'm **Pawan** working on Machine Learning and Generative AI
 - 📚 **[ML University](https://59r.gitbook.io/ml-university)** - My Notes & Learnings
 
 
-## Current Porjects 
+## Current/Potential Porjects 
 
+- 🥷 **[Narayanastra](https://github.com/d0r1h/Narayanastra)** - A Local coding Agent
 - 🛍️ **[shoprank](https://github.com/d0r1h/shoprank)** - Search and Rank application
 - 🪚 **[Thresher](https://github.com/d0r1h/Thresher)** - A local RAG system
 - 📇 **[crawlforge](https://github.com/d0r1h/crawlforge)** - Mini Distributed Web Crawler + Search Engine
